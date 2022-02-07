@@ -23,15 +23,26 @@ namespace leerdata
                 //      Console.WriteLine(curso.Titulo + " --- " + curso.PrecioPromocion.PrecioActual);
                 //  }
 
-                var cursos = db.Curso.Include(c=>c.ComentarioLista).AsNoTracking();
-                 foreach(var curso in cursos)
-                 {
-                     Console.WriteLine(curso.Titulo);
-                    foreach(var comentario in curso.ComentarioLista)
+                // var cursos = db.Curso.Include(c=>c.ComentarioLista).AsNoTracking();
+                //  foreach(var curso in cursos)
+                //  {
+                //      Console.WriteLine(curso.Titulo);
+                //     foreach(var comentario in curso.ComentarioLista)
+                //     {
+                //         Console.WriteLine(" - "+comentario.ComentarioTexto);
+                //     }
+                //  }
+
+                var cursos = db.Curso.Include(c=>c.InstructorLink).ThenInclude(ci=>ci.Instructor);
+                foreach(var curso in cursos)
+                {
+                    Console.WriteLine(curso.Titulo);
+                    foreach(var insLink in curso.InstructorLink)
                     {
-                        Console.WriteLine(" - "+comentario.ComentarioTexto);
+                        Console.WriteLine(" - " + insLink.Instructor.Nombre);
                     }
-                 }
+                }
+
             }
         }
     }
