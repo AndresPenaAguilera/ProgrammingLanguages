@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "leerdata/1.0.0": {
+      "LeerData/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.13"
         },
         "runtime": {
-          "leerdata.dll": {}
+          "LeerData.dll": {}
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -1043,7 +1043,7 @@
     }
   },
   "libraries": {
-    "leerdata/1.0.0": {
+    "LeerData/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
