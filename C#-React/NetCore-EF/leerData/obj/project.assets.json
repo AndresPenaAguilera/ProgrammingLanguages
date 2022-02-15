@@ -5708,11 +5708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore\\leerData\\leerdata.csproj",
-      "projectName": "leerdata",
-      "projectPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore\\leerData\\leerdata.csproj",
+      "projectUniqueName": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-EF\\leerData\\LeerData.csproj",
+      "projectName": "LeerData",
+      "projectPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-EF\\leerData\\LeerData.csproj",
       "packagesPath": "C:\\Users\\Andres.pena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore\\leerData\\obj\\",
+      "outputPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-EF\\leerData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
