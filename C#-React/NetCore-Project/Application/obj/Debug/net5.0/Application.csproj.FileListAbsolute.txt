@@ -4,9 +4,7 @@ C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetC
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Application.pdb
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Domain.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Intefaces.dll
-C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Persistence.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Domain.pdb
-C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Persistence.pdb
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\bin\Debug\net5.0\Intefaces.pdb
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig

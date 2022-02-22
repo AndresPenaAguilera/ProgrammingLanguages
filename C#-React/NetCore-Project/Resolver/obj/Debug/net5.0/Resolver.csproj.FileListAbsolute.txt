@@ -17,3 +17,5 @@ C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetC
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Resolver\obj\Debug\net5.0\Resolver.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Resolver\obj\Debug\net5.0\ref\Resolver.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Resolver\obj\Debug\net5.0\Resolver.pdb
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Resolver\bin\Debug\net5.0\Application.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Resolver\bin\Debug\net5.0\Application.pdb

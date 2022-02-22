@@ -1,7 +1,8 @@
 ﻿using Domain;
+using Intefaces.Application;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Persistence;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,18 +20,18 @@ namespace WebAPI.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
-        private readonly OnlineCoursesContext _context;
+        private readonly IQuerys _querys;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, OnlineCoursesContext context)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, IQuerys querys)
         {
             _logger = logger;
-            _context =context;
+            _querys = querys;
         }
 
         [HttpGet]
         public IEnumerable<Course>Get()
         {
-            return _context.Course.ToList();
+            return _querys.GetCourses();
         }
 
         // [HttpGet]

@@ -1636,8 +1636,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Domain": "1.0.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
-          "Persistence": "1.0.0"
+          "Intefaces": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -1684,6 +1684,21 @@
         },
         "runtime": {
           "bin/placeholder/Persistence.dll": {}
+        }
+      },
+      "Resolver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Application": "1.0.0",
+          "Intefaces": "1.0.0",
+          "Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Resolver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Resolver.dll": {}
         }
       }
     }
@@ -6128,12 +6143,17 @@
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
       "msbuildProject": "../Persistence/Persistence.csproj"
+    },
+    "Resolver/1.0.0": {
+      "type": "project",
+      "path": "../Resolver/Resolver.csproj",
+      "msbuildProject": "../Resolver/Resolver.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Application >= 1.0.0",
-      "Persistence >= 1.0.0",
+      "Resolver >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6174,8 +6194,8 @@
             "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\application\\Application.csproj": {
               "projectPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\application\\Application.csproj"
             },
-            "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\Resolver\\Resolver.csproj": {
+              "projectPath": "C:\\Users\\Andres.pena\\source\\repos\\ReposAndres\\ProgrammingLanguages\\C#-React\\NetCore-Project\\Resolver\\Resolver.csproj"
             }
           }
         }

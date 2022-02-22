@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\application\Application.csproj" />
-    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+    <ProjectReference Include="..\Resolver\Resolver.csproj" />
   </ItemGroup>
 
 </Project>

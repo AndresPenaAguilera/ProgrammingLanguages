@@ -18,14 +18,10 @@ namespace TestNetCore_Project
         [TestInitialize]
         public void Initialize()
         {
-            var services = new ServiceCollection();
-
-            IServiceCollection service = new ServiceCollection(); //services.AddDbContext<OnlineCoursesContext>(option => option.UseInMemoryDatabase(databaseName: "InMemory" + Guid.NewGuid().ToString()));
-            service.AddScoped<IConstructorConexion, ConstructorConexionTest>();
-            service.RegistrarContexto<IPersistenceContext,OnlineCoursesContext>();
-
-            //service.AddServices();
-         
+            
+            IServiceCollection service = new ServiceCollection(); 
+            service.AddScoped<IBuilderConnection, ConstructorConexionTest>();
+            service.RegisterContext<IPersistenceContext,OnlineCoursesContext>();
 
             IServiceProvider serviceProvider = service.BuildServiceProvider();
 

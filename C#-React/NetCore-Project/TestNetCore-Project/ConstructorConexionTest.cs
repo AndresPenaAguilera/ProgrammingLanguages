@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace TestNetCore_Project
 {
-    public class ConstructorConexionTest : IConstructorConexion
+    public class ConstructorConexionTest : IBuilderConnection
     {
-        public void Configurar(IServiceProvider serviceProvider, DbContextOptionsBuilder opciones)
+        public void SetUp(IServiceProvider serviceProvider, DbContextOptionsBuilder opciones)
         {
             opciones.UseInMemoryDatabase(databaseName: "InMemory");
         }

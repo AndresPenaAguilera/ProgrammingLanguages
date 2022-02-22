@@ -157,3 +157,8 @@ C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetC
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\Resolver.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\Resolver.pdb
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\MediatR.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\Application.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\TestNetCore-Project\bin\Debug\net5.0\Application.pdb
