@@ -9,6 +9,7 @@
       "Persistence/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
+          "Intefaces": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.14",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.14"
@@ -1072,6 +1073,14 @@
         "runtime": {
           "Domain.dll": {}
         }
+      },
+      "Intefaces/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Intefaces.dll": {}
+        }
       }
     }
   },
@@ -1761,6 +1770,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Intefaces/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

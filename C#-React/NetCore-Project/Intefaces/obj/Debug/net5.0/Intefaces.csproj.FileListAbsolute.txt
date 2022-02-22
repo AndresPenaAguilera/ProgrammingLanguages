@@ -1,0 +1,15 @@
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\Intefaces.deps.json
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\Intefaces.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\ref\Intefaces.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\Intefaces.pdb
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\Domain.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\bin\Debug\net5.0\Domain.pdb
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.csproj.AssemblyReference.cache
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.AssemblyInfoInputs.cache
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.AssemblyInfo.cs
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.csproj.CopyComplete
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\ref\Intefaces.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Intefaces\obj\Debug\net5.0\Intefaces.pdb

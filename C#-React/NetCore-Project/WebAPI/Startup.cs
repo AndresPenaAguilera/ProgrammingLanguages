@@ -1,3 +1,4 @@
+using Intefaces.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -31,7 +32,9 @@ namespace WebAPI
             services.AddDbContext<OnlineCoursesContext>(opt => {
                 opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
-            
+
+            services.AddScoped<IPersistenceContext, OnlineCoursesContext> ();
+       
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

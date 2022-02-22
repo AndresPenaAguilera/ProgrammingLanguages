@@ -2,7 +2,7 @@
 
 namespace EntityFramework
 {
-    public class AppCursosContext : DbContext
+    public partial class AppCursosContext : DbContext
     {
         private const string connectionString = @"Data Source=GTH-93\SQLEXPRESS; Initial Catalog=CursosOnline;User ID=sa;Password=Sinco123;";
 
@@ -21,5 +21,9 @@ namespace EntityFramework
         public DbSet<Instructor> Instructor { get; set; }
         public DbSet<CursoInstructor> CursoInstructor { get; set; }
 
+        public void GuardarCambios() 
+        {
+            SaveChanges();
+        }
     }
 }

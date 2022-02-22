@@ -1,9 +1,13 @@
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Persistence.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\ref\Persistence.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Persistence.pdb
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Intefaces.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\bin\Debug\net5.0\Intefaces.pdb
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
@@ -13,6 +17,4 @@ C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetC
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.pdb
-C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
-C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
-C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\Andres.pena\source\repos\ReposAndres\ProgrammingLanguages\C#-React\NetCore-Project\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections.Generic;
 
 namespace EntityFramework
 {
@@ -46,6 +47,31 @@ namespace EntityFramework
                     }
 
                 }
+
+                Curso curso1 = new Curso() {
+                    Titulo = "Curso SQL avanzado",
+                    Descripcion = "Nuevo curso para alumnos expertos en SQL",
+                    FechaPublicacion = DateTime.Now
+                };
+
+                List<Curso> cursos2 = new List<Curso>()
+                {
+                    new Curso() {
+                    Titulo = "Curso SQL avanzado 3",
+                    Descripcion = "Nuevo curso para alumnos expertos en SQL",
+                    FechaPublicacion = DateTime.Now
+                    },
+                    new Curso() {
+                    Titulo = "Curso SQL avanzado 4 ",
+                    Descripcion = "Nuevo curso para alumnos expertos en SQL",
+                    FechaPublicacion = DateTime.Now
+                    }
+
+                };
+
+                db.AdicionarCurso(cursos2);
+                db.GuardarCambios();
+                
 
 
             }
