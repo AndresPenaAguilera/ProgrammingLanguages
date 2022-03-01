@@ -10,7 +10,7 @@
         <PokemonOptions :pokemons="pokemonArr" @selection="checkAnswer"/>
         
         <div v-if="showAnswer">
-        <div>{{ message }}</div>
+        <h2 class="fade-in">{{ message }}</h2>
         <button @click="newGame">
             Nuevo juego
         </button>
@@ -61,7 +61,6 @@ export default {
 
             this.message = (id==pokemonId)?`Correcto, ${name}`: `Oops era ${name}`
            
-
 
         },
         newGame(){

@@ -36,8 +36,8 @@ namespace WebAPI
 
             services.AddServices();
 
-
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI", Version = "v1" });

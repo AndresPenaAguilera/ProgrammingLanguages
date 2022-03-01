@@ -53,7 +53,7 @@ namespace TestNetCore_Project
             _IPersistenceContext.Save();
 
             var List = _IPersistenceContext.GetCourses();
-            Assert.AreEqual(List.Count,2);
+            Assert.AreEqual(2, List.Count);
         }
     }
 }
