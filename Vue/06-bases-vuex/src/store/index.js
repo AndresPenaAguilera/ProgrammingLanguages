@@ -20,15 +20,24 @@ export default createStore({
             state.count += val
             state.lastMutation = 'incrementBy'
             state.lastRandomInt = val
+        }, 
+        setLoading( state, val ){
+            state.isLoading = val
         }
     },
 
     actions:{
-        async incrementRandomInt( context )
+        async incrementRandomInt( { commit } )
         {
+            commit( 'setLoading', true )
             const randomInt = await getRandomInt()
-            context.commit( 'incrementBy', randomInt )
-
+            commit( 'incrementBy', randomInt )
+            commit( 'setLoading', false )
+        }
+    },
+    getters:{
+        squareCount( state ){
+            return state.count * state.count
         }
     }
 
